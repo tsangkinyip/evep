@@ -1,0 +1,173 @@
+myObj={
+    "dialog": [
+        {
+            "role": "pc",
+            "roleicon": "female",
+            "rolemsg": "Hello,this is Sammy, your Customer Service Assistant.  How can I help you today?",
+            "sndfile": "media/beep.mp3",
+            "time": 2
+        },
+        {
+            "role": "student",
+            "roleicon": "male",
+            "rolemsg": "I just wanna say stop asking me to apply for your cards ... I wun use your cards anyway",
+            "sndfile": "media/c1.mp3",
+            "time": 3
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c1.mp3",
+            "time": 3
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c2.mp3",
+            "time": 3
+        },
+		{
+            "role": "pc",
+            "roleicon": "female",
+            "rolemsg": "I'm sorry, would it be more convenient for you to listen to me? \nWould you like me to send you voice messages as well?",
+            "sndfile": "media/beep.mp3",
+            "time": 2
+        },
+        {
+            "role": "student",
+            "roleicon": "male",
+            "rolemsg": "Ok. Pls",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+		{
+            "role": "pcR",
+            "roleicon": "female",
+            "rolemsg": "",
+            "sndfile": "media/c3.mp3",
+            "time": 2
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c4.mp3",
+            "time": 3
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c5.mp3",
+            "time": 3
+        },
+        {
+            "role": "student",
+            "roleicon": "male",
+            "rolemsg": "Ok no problem.",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+        {
+            "role": "pc",
+            "roleicon": "male",
+            "rolemsg": "Thank you.",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c6.mp3",
+            "time": 3
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c7.mp3",
+            "time": 3
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "Thank you.",
+            "sndfile": "media/c8.mp3",
+            "time": 3
+        },
+        {
+            "role": "studentR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c9.mp3",
+            "time": 3
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c10.mp3",
+            "time": 3
+        },
+        {
+            "role": "student",
+            "roleicon": "male",
+            "rolemsg": "Thx",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+        {
+            "role": "pc",
+            "roleicon": "male",
+            "rolemsg": "Your're welcome.",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+        {
+            "role": "pcR",
+            "roleicon": "male",
+            "rolemsg": "",
+            "sndfile": "media/c11.mp3",
+            "time": 3
+        },
+        {
+            "role": "student",
+            "roleicon": "male",
+            "rolemsg": "Good. Thx",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+        {
+            "role": "pc",
+            "roleicon": "male",
+            "rolemsg": "My pleasure.  Anything else I can help with?",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+        {
+            "role": "student",
+            "roleicon": "male",
+            "rolemsg": "No tats bout it",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+        {
+            "role": "pc",
+            "roleicon": "male",
+            "rolemsg": "Sorry again for the inconvenience.  And thanks a lot for reaching out to us.  Good bye.",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        },
+        {
+            "role": "student",
+            "roleicon": "male",
+            "rolemsg": "Bye",
+            "sndfile": "media/beep.mp3",
+            "time": 3
+        }
+        
+    ]
+}
